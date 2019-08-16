@@ -8,6 +8,8 @@ The game provides 3 difficulty level settings.
 * Medium - 0 -> 100
 * Hard - 0 -> 1000
 
+Go **[here](https://react-app-number-game.herokuapp.com)** for live demo.
+
 **Screenshots:**
 
 ![](https://github.com/inochoi/React-App-Number-Game/blob/master/screenshot.png)
