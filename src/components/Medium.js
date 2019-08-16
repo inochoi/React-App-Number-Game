@@ -144,10 +144,6 @@ const Medium = props => {
                   RESET GAME
                 </button>
 
-                <div>Number picked: {props.num}</div>
-                <div>Input Value: {inputValue}</div>
-                <div>Submitted Value: {submitValue}</div>
-                <div>{guess(props.num, inputValue)}</div>
                 <div>{compare(submitValue)}</div>
                 <div>{biggerSmaller(submitValue)}</div>
               </form>
