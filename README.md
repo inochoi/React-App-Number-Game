@@ -8,7 +8,7 @@ The game provides 3 difficulty level settings.
 * Medium - 0 -> 100
 * Hard - 0 -> 1000
 
-Go **[here](https://react-app-number-game.herokuapp.com)** for live demo.
+Go **[here](https://react-app-color-game.herokuapp.com)** for live demo.
 
 **Screenshots:**
 
