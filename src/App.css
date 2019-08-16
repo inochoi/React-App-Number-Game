@@ -1,0 +1,78 @@
+* {
+  font-family: "Montserrat", "Avenir";
+  font-weight: 700;
+}
+
+body {
+  background-color: rgba(168, 172, 123, 0.137);
+
+}
+
+#numinput {
+  height: 80px;
+  margin: 10px 2px;
+  font-size: 2rem;
+  color: #80f;
+  border-radius: 10px;
+}
+
+button {
+  margin: auto 2px;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+  border-radius: 28px;
+  padding: 15px;
+  background: #eee url("http://i.stack.imgur.com/YYySO.png") no-repeat 50% 50%;
+}
+
+input[type="number"]:hover::-webkit-inner-spin-button {
+  background: #eee url("http://i.stack.imgur.com/YYySO.png") no-repeat 50% 50%;
+  padding: 15px;
+  border-radius: 28px;
+}
+
+.card {
+  margin-top: 5rem;
+  background-color: rgba(168, 172, 123, 0);
+  border: none;
+}
+
+.container {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.fas {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.fa-thermometer-full {
+  color: red;
+}
+
+.fa-thermometer-three-quarters {
+  color: rgb(248, 108, 58);
+}
+
+.fa-thermometer-half {
+  color: orange;
+}
+
+.fa-thermometer-quarter {
+  color: rgb(0, 225, 255);
+}
+
+.fa-thermometer-empty {
+  color: rgb(0, 119, 255);
+}
+
+.fa-snowflake {
+  color: blue;
+}
